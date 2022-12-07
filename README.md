@@ -3,7 +3,7 @@
 
 ## 1. Discrete Dynamical Systems
   * Newton's method, Quasi-Newton approximation, relaxed Quasi-Newton, fixed point iteration 
-  * Ｂifurcation diagram of the logistic equation
+  * Bifurcation diagram of the logistic equation
 
 ## 2. Parallelized Dynamics
   *  serial code vs. multithread vs. multiprocess
