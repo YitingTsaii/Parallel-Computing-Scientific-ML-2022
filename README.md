@@ -1,10 +1,9 @@
 # Parallel-Computing-Scientific-ML-2022
 [18.337] Parallel Computing and Scientific Machine Learning @ MIT (Spring 2022)
 
-## 1. Inverse Transform 
-  * Sampling from a Piecewise Linear CDF
+## 1. Discrete Dynamical Systems
+  * Newton's method, Quasi-Newton approximation, relaxed Quasi-Newton, fixed point iteration 
+  * Ｂifurcation diagram of the logistic equation
 
-## 2. Monte Carlo Integration
-  * Simple Monte Carlo
-  * Importance Sampling
-  * Rejection Sampling
+## 2. Parallelized Dynamics
+  *  serial code vs. multithread vs. multiprocess
