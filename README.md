@@ -18,3 +18,10 @@
   * Backpropagation of a neural network
   * Implementing an ODE adjoint
   * Training a neural ODE
+
+## 5. Term Project 
+  * **Topic:** Generalizable Physics-Informed Neural Network (PINN) Surrogates for Steady Linear and Non-linear PDEs
+  * **Methods:** Proposing a new form of PINN which can effectively handle different boundary conditions for a particular PDE on a fixed regular domain without re-training <br />
+  * **Applications:** 2-D Laplace Equation & 2-D Burgers’ Equations 
+
+    
